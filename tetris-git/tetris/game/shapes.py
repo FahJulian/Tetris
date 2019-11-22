@@ -1,0 +1,1 @@
+CUBE, SOMETHINGELSE = range(2)

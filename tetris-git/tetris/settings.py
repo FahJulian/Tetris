@@ -1,0 +1,5 @@
+GUI_WIDTH       = 400
+GUI_HEIGHT      = 800
+
+BLOCK_HEIGHT    = 20
+BLOCK_WIDTH     = 20
