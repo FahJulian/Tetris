@@ -1,1 +1,1 @@
-CUBE, SOMETHINGELSE = range(2)
+CUBE, I, S, Z, L, J, T = range(7)

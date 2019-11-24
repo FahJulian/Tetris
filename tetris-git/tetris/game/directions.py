@@ -1,0 +1,1 @@
+UP, DOWN, RIGHT, LEFT = range(4)
